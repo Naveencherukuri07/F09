@@ -16,7 +16,7 @@
 
 ---
 
-##  Story Arc
+##  Story Architechture
 
 The simulation is structured across **5 scenes**, each representing a key concept:
 
