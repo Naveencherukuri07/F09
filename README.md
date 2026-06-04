@@ -4,13 +4,11 @@
 
 ### An Interactive Simulation on Equality, Prejudice & Discrimination
 
-![The 12th Man Storyboard](storyboard.jpeg)
-
 </div>
 
 ---
 
-## 📌 Overview
+##  Overview
 
 **The 12th Man** is a browser-based interactive simulation built around a cricket team selection story. It walks users through how **prejudice** and **discrimination** creep into decision-making — and what it takes to restore **equality**.
 
@@ -18,7 +16,7 @@
 
 ---
 
-## 🎭 Story Arc
+##  Story Arc
 
 The simulation is structured across **5 scenes**, each representing a key concept:
 
@@ -32,7 +30,7 @@ The simulation is structured across **5 scenes**, each representing a key concep
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 By the end of this simulation, users will be able to:
 
@@ -43,7 +41,7 @@ By the end of this simulation, users will be able to:
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 the-12th-man/
@@ -74,7 +72,7 @@ the-12th-man/
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -89,7 +87,7 @@ the-12th-man/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Any modern browser — Chrome, Firefox, Edge, Safari
@@ -110,7 +108,7 @@ open index.html
 
 ---
 
-## 🎮 How It Works
+##  How It Works
 
 1. **Pick a role** — Play as the Head Selector, the New Player, or observe as the Coach
 2. **Work through each scene** — Read dialogue and make decisions at key branching points
@@ -119,7 +117,7 @@ open index.html
 
 ---
 
-## ✅ Roadmap
+##  Roadmap
 
 - [x] Storyboard finalised
 - [x] README and project structure defined
@@ -134,7 +132,7 @@ open index.html
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create your branch: `git checkout -b feature/your-feature`
@@ -151,5 +149,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-Made with ❤️ for inclusive education
+Work in progress..
 </div>
